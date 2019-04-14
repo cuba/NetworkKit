@@ -6,6 +6,8 @@
 NetworkKit
 ============
 
+**ATTENTION** NetworkKit has been **RENAMED** to [PewPew](https://github.com/cuba/PewPew). This repository is no longer supported but the project is still going on [here](https://github.com/cuba/PewPew) (just under a new name).
+
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
